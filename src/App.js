@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>MAX LOX</p>
+        <p>MAX LOX!</p>
       </header>
     </div>
   );
